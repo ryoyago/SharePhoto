@@ -1,0 +1,7 @@
+{
+  "name": "SharePhoto",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
